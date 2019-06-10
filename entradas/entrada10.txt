@@ -1,0 +1,1 @@
+{"nombre":"Rojo","valor_r":255,"valor_g":0,"valor_b":0}

@@ -1,0 +1,5 @@
+Nombre_color: Rojo
+Valor: 
+    r: 255
+    g: 0
+    b: 0
